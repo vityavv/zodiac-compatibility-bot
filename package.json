@@ -1,0 +1,15 @@
+{
+  "name": "zodiaccompatibilitybot",
+  "version": "1.0.0",
+  "description": "Stores your zodiac and finds out whether or not you are compatible with others!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"no tests yet :(\""
+  },
+  "author": "Victor Veytsman",
+  "license": "MIT",
+  "dependencies": {
+    "better-sqlite3": "^7.1.0",
+    "discord.js": "^12.3.1"
+  }
+}
