@@ -68,7 +68,7 @@ client.on("message", msg => {
 		}
 		const embed = new Discord.MessageEmbed()
 			.setAuthor("How to use the Zodiac Compatibility Bot")
-			.setDescription("This is a bot made by Victor Veytsman")
+			.setDescription("This is a bot made by Victor. It's [open source!](https://github.com/vityavv/zodiac-compatibility-bot)")
 			.addFields([
 				{name: "z!set <sign>", value: "Sets your sign in the system"},
 				{name: "z!get", value: "Gets your sign"},
